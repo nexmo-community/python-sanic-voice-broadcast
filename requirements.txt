@@ -6,7 +6,7 @@ backoff==1.4.3
 certifi==2017.7.27.1
 cffi==1.10.0
 chardet==3.0.4
-cryptography==2.0.3
+cryptography==2.3
 flake8==3.4.1
 httptools==0.0.9
 idna==2.6
