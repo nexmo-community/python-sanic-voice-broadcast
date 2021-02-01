@@ -24,7 +24,7 @@ requests==2.18.3
 sanic==0.6.0
 six==1.10.0
 ujson==1.35
-urllib3==1.22
+urllib3==1.24.2
 uvloop==0.8.0
 websockets==3.3
 yarl==0.12.0
