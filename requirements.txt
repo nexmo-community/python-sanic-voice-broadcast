@@ -3,7 +3,7 @@ aiohttp==2.2.5
 asn1crypto==0.22.0
 async-timeout==1.2.1
 backoff==1.4.3
-certifi==2017.7.27.1
+certifi==2022.12.7
 cffi==1.10.0
 chardet==3.0.4
 cryptography==2.0.3
